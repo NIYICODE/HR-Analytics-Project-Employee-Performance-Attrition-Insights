@@ -109,3 +109,5 @@ HR teams often struggle to correlate performance, training, and attrition metric
 This project demonstrates how Excel can be leveraged for **end-to-end HR analytics** — from cleaning and modeling data to building interactive dashboards. By combining performance, training, and attrition insights, the analysis supports proactive workforce management, targeted interventions, and strategic HR decision-making.
 
 
+![Dashboard](Dashboard.png)
+
